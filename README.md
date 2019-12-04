@@ -1,2 +1,2 @@
 # Eleusis
-Eleusis card game
+Eleusis card game made with godot
